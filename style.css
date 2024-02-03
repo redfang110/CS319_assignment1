@@ -1,4 +1,4 @@
-header {
+header, footer {
     background-color: #333;
     color: #fff;
     padding: 10px 0;
@@ -15,7 +15,7 @@ nav li {
     margin: 10px 25px 5px 25px;
 }
 
-nav a {
+nav a, footer a {
     text-decoration: none;
     color: #fff;
 }
